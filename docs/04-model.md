@@ -9,7 +9,7 @@ framework, preprocesamiento y salidas. Este documento es la base para `05-shap.m
 ## Modelo elegido
 
 * **Nombre**: DeiT (Data-efficient Image Transformer) — Hugging Face
-* **Documentación**: https://huggingface.co/docs/transformers/v5.15.1/en/model_doc/deit#deit 
+* **Documentación**: <https://huggingface.co/docs/transformers/v5.15.1/en/model_doc/deit#deit>
 * **Checkpoint**: `TODO` (ej. `facebook/deit-base-patch16-224`,
   `facebook/deit-base-distilled-patch16-224`, `facebook/deit-tiny-patch16-224`)
 * **Tipo**: preentrenado en ImageNet-1k (no fine-tuning propio, salvo que se decida lo contrario)
@@ -44,4 +44,3 @@ model.eval()
 ## Dependencias externas
 
 * **Imágenes de prueba (1–3)** y **pregunta explicativa concreta**:
-

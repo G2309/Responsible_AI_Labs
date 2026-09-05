@@ -60,4 +60,3 @@ shap_values = explainer(
 * Código/notebook SHAP (el snippet de arriba, ejecutable)
 * Figuras (`shap.image_plot` por imagen)
 * Insumos para la sección de resultados y limitaciones del `paper.tex`
-
