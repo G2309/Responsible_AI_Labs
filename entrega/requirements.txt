@@ -1,0 +1,8 @@
+# Probado con: python 3.13, torch 2.12.0, transformers 5.5.4, shap 0.50.0, opencv 4.13.0
+torch>=2.2
+transformers>=4.40
+shap>=0.45
+numpy>=1.26
+opencv-python-headless>=4.8
+matplotlib>=3.7
+pillow>=10.0

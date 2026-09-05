@@ -1,0 +1,51 @@
+\begin{thebibliography}{1}
+
+\bibitem{adebayo2018sanity}
+Julius Adebayo, Justin Gilmer, Michael Muelly, Ian Goodfellow, Moritz Hardt,
+  and Been Kim.
+\newblock Sanity checks for saliency maps.
+\newblock In {\em Advances in Neural Information Processing Systems 31
+  (NeurIPS)}, 2018.
+
+\bibitem{deng2009imagenet}
+Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li~Fei-Fei.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In {\em IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, pages 248--255, 2009.
+
+\bibitem{dosovitskiy2021vit}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at
+  scale.
+\newblock In {\em International Conference on Learning Representations (ICLR)},
+  2021.
+
+\bibitem{hfdeit}
+{Hugging Face}.
+\newblock Modelo preentrenado \texttt{facebook/deit-small-patch16-224}.
+\newblock Hugging Face Model Hub.
+\newblock Consultado el 4 de septiembre de 2026.
+
+\bibitem{kumar2020problems}
+I.~Elizabeth Kumar, Suresh Venkatasubramanian, Carlos Scheidegger, and Sorelle
+  Friedler.
+\newblock Problems with shapley-value-based explanations as feature importance
+  measures.
+\newblock In {\em Proceedings of the 37th International Conference on Machine
+  Learning (ICML)}, volume 119 of {\em PMLR}, 2020.
+
+\bibitem{lundberg2017unified}
+Scott~M. Lundberg and Su-In Lee.
+\newblock A unified approach to interpreting model predictions.
+\newblock In {\em Advances in Neural Information Processing Systems 30
+  (NeurIPS)}, pages 4765--4774, 2017.
+
+\bibitem{touvron2021deit}
+Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre
+  Sablayrolles, and Herv{\'e} J{\'e}gou.
+\newblock Training data-efficient image transformers \& distillation through
+  attention.
+\newblock In {\em Proceedings of the 38th International Conference on Machine
+  Learning (ICML)}, volume 139 of {\em PMLR}, pages 10347--10357, 2021.
+
+\end{thebibliography}

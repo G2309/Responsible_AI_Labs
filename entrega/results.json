@@ -1,0 +1,76 @@
+{
+  "checkpoint": "facebook/deit-small-patch16-224",
+  "imagenes": [
+    {
+      "id": "IMG-01",
+      "descripcion": "capibara (tierra seca)",
+      "url": "https://raw.githubusercontent.com/freds0/capybara_dataset/main/images/test/186.jpeg",
+      "top1": "hog, pig, grunter, squealer, Sus scrofa",
+      "p_top1": 0.13010376691818237,
+      "top3": [
+        [
+          "hog, pig, grunter, squealer, Sus scrofa",
+          0.1301
+        ],
+        [
+          "beaver",
+          0.0719
+        ],
+        [
+          "wild boar, boar, Sus scrofa",
+          0.0709
+        ]
+      ],
+      "p_beaver": 0.07191020995378494
+    },
+    {
+      "id": "IMG-02",
+      "descripcion": "castor (agua)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/725021665/medium.jpg",
+      "top1": "beaver",
+      "p_top1": 0.2588890790939331,
+      "top3": [
+        [
+          "beaver",
+          0.2589
+        ],
+        [
+          "leafhopper",
+          0.0261
+        ],
+        [
+          "lacewing, lacewing fly",
+          0.0252
+        ]
+      ],
+      "p_beaver": 0.2588890790939331
+    },
+    {
+      "id": "IMG-03",
+      "descripcion": "capibara (orilla, agua)",
+      "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/721783385/medium.jpg",
+      "top1": "beaver",
+      "p_top1": 0.498440682888031,
+      "top3": [
+        [
+          "beaver",
+          0.4984
+        ],
+        [
+          "American coot, marsh hen, mud hen, water hen, Fulica americana",
+          0.0201
+        ],
+        [
+          "dowitcher",
+          0.0116
+        ]
+      ],
+      "p_beaver": 0.498440682888031
+    }
+  ],
+  "estabilidad_pearson": {
+    "1000_vs_2000": 0.9314,
+    "1000_vs_4000": 0.8724,
+    "2000_vs_4000": 0.9792
+  }
+}
